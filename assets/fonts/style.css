@@ -1,16 +1,20 @@
 @font-face {
    font-family: 'ROSEWOODSTD-REGULAR';
+   font-display: swap;
    src: url('ROSEWOODSTD-REGULAR/font.OTF');
 }
 @font-face {
    font-family: 'OLDENGL';
+   font-display: swap;
    src: url('OLDENGL/font.TTF');
 }
 @font-face {
    font-family: 'CHILLER';
+   font-display: swap;
    src: url('CHILLER/font.TTF');
 }
 @font-face {
    font-family: 'BGOTHL';
+   font-display: swap;
    src: url('BGOTHL/font.TTF');
 }

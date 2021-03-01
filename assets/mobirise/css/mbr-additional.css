@@ -1132,6 +1132,29 @@ section.lazy-placeholder:after {
 .cid-spWxML2IXj .mbr-section-btn {
   color: #55b4d4;
 }
+.cid-sqpg4FEAk0 {
+  background-image: url("../../../assets/images/lorenzo-herrera-p0j-me6mgo4-unsplash-2000x1333.jpg");
+}
+.cid-sqpg4FEAk0 .mbr-figure {
+  margin: 0 auto;
+  width: 100%;
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-sqpg4FEAk0 .mbr-figure img {
+  height: 100%;
+  margin: 0 auto;
+}
+@media (max-width: 991px) {
+  .cid-sqpg4FEAk0 .mbr-figure img {
+    width: 100% !important;
+  }
+}
+.cid-sqpg4FEAk0 .mbr-text,
+.cid-sqpg4FEAk0 .mbr-section-btn {
+  color: #ff3366;
+}
 .cid-slNFO5mtGz {
   padding-top: 15px;
   padding-bottom: 0px;
@@ -4518,8 +4541,20 @@ section.lazy-placeholder:after {
 .cid-spXxcnlBxS H1 {
   color: #f7ed4a;
 }
-#instagram-feed-block-46 .inst__title {
-  color: #ff3366;
+.cid-rvXqZ44Xau {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background: linear-gradient(0deg, #073b4c, #073b4c);
+}
+.cid-rvXqZ44Xau .mbr-iconfont-social {
+  font-size: 32px;
+  color: #ffffff;
+}
+.cid-rvXqZ44Xau .social-list a:focus {
+  text-decoration: none;
+}
+.cid-rvXqZ44Xau H2 {
+  color: #19fd0d;
 }
 .cid-rw0JZ4PyuM {
   padding-top: 15px;
@@ -4975,21 +5010,6 @@ section.lazy-placeholder:after {
 .cid-rvXdAhgHwf .nav-link:hover,
 .cid-rvXdAhgHwf .dropdown-item:hover {
   color: #41d912 !important;
-}
-.cid-rvXqZ44Xau {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background: linear-gradient(0deg, #073b4c, #073b4c);
-}
-.cid-rvXqZ44Xau .mbr-iconfont-social {
-  font-size: 32px;
-  color: #ffffff;
-}
-.cid-rvXqZ44Xau .social-list a:focus {
-  text-decoration: none;
-}
-.cid-rvXqZ44Xau H2 {
-  color: #19fd0d;
 }
 .cid-spXx5PPMXo {
   padding-top: 15px;

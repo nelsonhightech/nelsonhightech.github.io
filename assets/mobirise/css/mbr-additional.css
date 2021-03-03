@@ -4549,11 +4549,11 @@ section.lazy-placeholder:after {
 .cid-rvXqZ44Xau {
   padding-top: 15px;
   padding-bottom: 15px;
-  background: linear-gradient(0deg, #073b4c, #073b4c);
+  background: linear-gradient(0deg, #ffffff, #073b4c);
 }
 .cid-rvXqZ44Xau .mbr-iconfont-social {
   font-size: 32px;
-  color: #ffffff;
+  color: #000000;
 }
 .cid-rvXqZ44Xau .social-list a:focus {
   text-decoration: none;
@@ -4564,10 +4564,10 @@ section.lazy-placeholder:after {
 .cid-rw0JZ4PyuM {
   padding-top: 15px;
   padding-bottom: 0px;
-  background-color: #073b4c;
+  background-image: url("../../../assets/images/background1.jpg");
 }
 .cid-rw0JZ4PyuM .mbr-section-subtitle {
-  color: #f7ed4a;
+  color: #ffffff;
 }
 .cid-rw0JZ4PyuM .formoid {
   margin: auto;

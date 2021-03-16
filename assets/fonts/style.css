@@ -4,17 +4,22 @@
    src: url('ROSEWOODSTD-REGULAR/font.OTF');
 }
 @font-face {
-   font-family: 'OLDENGL';
+   font-family: 'ALGER';
    font-display: swap;
-   src: url('OLDENGL/font.TTF');
+   src: url('ALGER/font.TTF');
 }
 @font-face {
-   font-family: 'CHILLER';
+   font-family: 'AGENCYR';
    font-display: swap;
-   src: url('CHILLER/font.TTF');
+   src: url('AGENCYR/font.TTF');
 }
 @font-face {
-   font-family: 'BGOTHL';
+   font-family: 'MOD20';
    font-display: swap;
-   src: url('BGOTHL/font.TTF');
+   src: url('MOD20/font.TTF');
+}
+@font-face {
+   font-family: 'STENCIL';
+   font-display: swap;
+   src: url('STENCIL/font.TTF');
 }
